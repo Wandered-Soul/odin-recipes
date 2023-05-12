@@ -1,1 +1,1 @@
-# odin-recipes
+This repo is about recipes and requires HTML to build it
